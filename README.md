@@ -1,5 +1,7 @@
 # spelling_correction
-# Author: Qi Shan <shanqi@cs.washington.edu>
+
+Author: Qi Shan <shanqi@cs.washington.edu>
+
 a python package for spelling correction
 
 Commond line
